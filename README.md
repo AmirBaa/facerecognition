@@ -6,4 +6,4 @@ Web react app implemented based on online course "The Complete Web Developer in 
 
 - Since the database for the project is hosted on https://www.heroku.com/, pricings were changed and the database is currently not working
 
--However, for now, feel free to check out the code 
+- However, for now, feel free to check out the code 
